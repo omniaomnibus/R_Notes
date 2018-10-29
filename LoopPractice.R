@@ -15,19 +15,10 @@ for(i in 1:10000){
   dist[i] <- sqrt((x2[i]-x1[i])^2 + (y2[i]-y1[i])^2)
 }
 
-
 mean(dist)
 
 
-
-
 XXX <- runif(100,0,11)
-
-(XXX)
-
-
-
-
 
 
 set.seed(123)
