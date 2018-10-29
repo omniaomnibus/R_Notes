@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1540829945290.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "745241352",
+    "id" : "666B9640",
+    "lastKnownWriteTime" : 1540830050,
+    "last_content_update" : 1540830050963,
+    "path" : "~/GitHub/R_Notes/LoopPractice.R",
+    "project_path" : "LoopPractice.R",
+    "properties" : {
+        "cursorPosition" : "11,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
